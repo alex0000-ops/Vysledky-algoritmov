@@ -40,7 +40,7 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 ### Vysvetlenie metrík
 
 - **Presnosť filtrácie** – podiel správne odstránených (skutočne normálnych) záznamov z celkového počtu odstránených záznamov. Vyššia hodnota znamená, že pipeline omylom neodstraňuje forenzne relevantné záznamy.
-- **Recall** – podiel zachovaných forenzne relevantných záznamov z ich celkového počtu v datasete. Primárna metrika – nechceme stratiť dôkazy.
+- **Recall** – podiel zachovaných forenzne relevantných záznamov z ich celkového počtu v datasete. 
 - **F1** – harmonický priemer presnosti filtrácie a recall, slúži na celkové porovnanie experimentov.
 
 ## Spustenie
