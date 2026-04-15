@@ -14,15 +14,14 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 
 ```
 ├── prefixspan/
-│   ├── prefixspan_experiment_1.ipynb    # Popis: ...
-│   ├── prefixspan_experiment_2.ipynb    # Popis: ...
-│   └── ...
+│   ├── psx_s_predpripravou.py    
+│   ├── spw_sliding_window.py
+│   └── spx_3x.py
 ├── gsp/
-│   ├── gsp_experiment_1.ipynb           # Popis: ...
-│   ├── gsp_experiment_2.ipynb           # Popis: ...
-│   └── ...
+│   ├── gsp_experiment_1.
+│   
 ├── data/
-│   └── README.md                        # Popis datasetu a predspracovania
+│   └── README.md                        # Popis datasetu 
 ├── results/
 │   └── porovnanie_vysledkov.md          # Súhrnná tabuľka výsledkov
 └── README.md                            # Tento súbor
