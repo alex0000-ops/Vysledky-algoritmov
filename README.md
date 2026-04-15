@@ -43,12 +43,6 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 - **Recall** – podiel zachovaných forenzne relevantných záznamov z ich celkového počtu v datasete. 
 - **F1** – harmonický priemer presnosti filtrácie a recall, slúži na celkové porovnanie experimentov.
 
-## Spustenie
-
-```bash
-pip install -r requirements.txt
-jupyter notebook
-```
 
 ## Autor
 
