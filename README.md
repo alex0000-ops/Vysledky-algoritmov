@@ -32,7 +32,7 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 ## Prehľad experimentov
 
 | # | Algoritmus | Presnosť filtrácie | Recall | F1 | Čas behu | Odstránených riadkov |
-|---|-----------|-----------|--------------------:|-------:|---:|---------:|---------------------:|
+|---|-----------|--------------------:|-------:|---:|---------:|---------------------:|
 | 1 | PrefixSpan s predprípravou | – | – | – | – | – |
 | 2 | PrefixSpan 3x | – | – | – | – | – |
 | 3 | PrefixSpan sliding window | – | – | – | – | – |
@@ -47,7 +47,7 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 
 
 
-##Poznámka k implementácii
+## Poznámka k implementácii
 
 Implementačné časti zdrojových kódov v repozitári boli pri experimentoch generované a upravované s využitím Anthropic modelu Claude Opus 4.6. Samotná metodika experimentov, výber techník, testované prístupy a analytické rozhodnutia boli založené na vlastnej práci autora, odporúčaniach skúsenejších osôb a relevantnej literatúre.
 
