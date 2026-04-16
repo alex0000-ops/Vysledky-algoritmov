@@ -33,9 +33,9 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 
 | # | Algoritmus | Presnosť filtrácie | Recall | F1 | Čas behu | Odstránených riadkov |
 |---|-----------|--------------------:|-------:|---:|---------:|---------------------:|
-| 1 | PrefixSpan s predprípravou | – | – | – | – | – |
-| 2 | PrefixSpan 3x | – | – | – | – | – |
-| 3 | PrefixSpan sliding window | – | – | – | – | – |
+| 1 | PrefixSpan s predprípravou | 99.95% | 55.56% (15/27) | 71.4% | – | 23 969 |
+| 2 | PrefixSpan 3x | 99.99% | 88.89% (24/27) | 94.1% | – | 23 980 |
+| 3 | PrefixSpan sliding window | 100.00% | 100.00% (27/27) | 100.0% | – | 13 038 |
 | 4 | GSP | – | – | – | – | – |
 | 5 | SPADE | – | – | – | – | – |
 
