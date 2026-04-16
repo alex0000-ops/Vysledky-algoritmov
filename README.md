@@ -8,7 +8,7 @@ Cieľom pipeline je **identifikovať a odstrániť rutinnú (normálnu) aktivitu
 
 ## Dataset
 
-Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Stolen Szechuan Sauce*, obsahujúcom ~40 917 záznamov Windows Event Logov (~27,5 % útokov).
+Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Stolen Szechuan Sauce*, obsahujúcom ~40 917 záznamov Windows Event Logov ( % útokov).
 
 ## Štruktúra repozitára
 
