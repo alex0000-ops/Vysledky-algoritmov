@@ -31,12 +31,13 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 
 ## Prehľad experimentov
 
-| # | Algoritmus | Parametre | Presnosť filtrácie | Recall | F1 | Čas behu | Odstránených riadkov |
+| # | Algoritmus | Presnosť filtrácie | Recall | F1 | Čas behu | Odstránených riadkov |
 |---|-----------|-----------|--------------------:|-------:|---:|---------:|---------------------:|
-| 1 | PrefixSpan | min_sup=..., window=..., step=... | – | – | – | – | – |
-| 2 | PrefixSpan | min_sup=..., window=..., step=... | – | – | – | – | – |
-| 3 | GSP | min_sup=..., window=..., step=... | – | – | – | – | – |
-| 4 | GSP | min_sup=..., window=..., step=... | – | – | – | – | – |
+| 1 | PrefixSpan s predprípravou | – | – | – | – | – |
+| 2 | PrefixSpan 3x | – | – | – | – | – |
+| 3 | PrefixSpan sliding window | – | – | – | – | – |
+| 4 | GSP | – | – | – | – | – |
+| 5 | SPADE | – | – | – | – | – |
 
 ### Vysvetlenie metrík
 
@@ -45,6 +46,9 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 - **F1** – harmonický priemer presnosti filtrácie a recall, slúži na celkové porovnanie experimentov.
 
 
-## Autor
+
+##Poznámka k implementácii
+
+Implementačné časti zdrojových kódov v repozitári boli pri experimentoch generované a upravované s využitím Anthropic modelu Claude Opus 4.6. Samotná metodika experimentov, výber techník, testované prístupy a analytické rozhodnutia boli založené na vlastnej práci autora, odporúčaniach skúsenejších osôb a relevantnej literatúre.
 
 Bakalárska práca, 2025/2026
