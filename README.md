@@ -17,13 +17,15 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 │   ├── psx_s_predpripravou.py    
 │   ├── spw_sliding_window.py
 │   └── spx_3x.py
-├── gsp/
-│   ├── gsp_experiment_1.
+├── GSP/
+│   ├── gsp.py
+│ 
+├── SPADE/
+│   ├── spade.py
 │   
 ├── data/
 │   └── README.md                        # Popis datasetu 
-├── results/
-│   └── porovnanie_vysledkov.md          # Súhrnná tabuľka výsledkov
+│ 
 └── README.md                            # Tento súbor
 ```
 
