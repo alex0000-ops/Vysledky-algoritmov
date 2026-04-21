@@ -36,7 +36,7 @@ Experimenty boli vykonané na datasete odvodenom z CTF forenznej výzvy *The Sto
 | 1 | PrefixSpan s predprípravou | 99.95% | 55.56% (15/27) | 71.4% | 1325.2 | 23 969 |
 | 2 | PrefixSpan 3x | 99.99% | 88.89% (24/27) | 94.1% | 57.8 | 23 980 |
 | 3 | PrefixSpan sliding window | 100.00% | 100.00% (27/27) | 100.0% | 8.7 | 13 038 |
-| 4 | GSP | – | – | – | – | 7 853  |
+| 4 | GSP | – | – | – | – | 33 064  |
 | 5 | SPADE | – | – | – | – | – |
 
 ### Vysvetlenie metrík
