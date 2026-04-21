@@ -65,7 +65,7 @@ _start = time.time()
 # 1. KONFIGURÁCIA
 # ═══════════════════════════════════════════════════════════════════
 
-LABELED_CSV     = "C:/Users/kiara/PycharmProjects/Bakalaris/data/labele.csv"
+LABELED_CSV     = "labele.csv"
 SESSION_GAP_MIN = 15
 MAX_SESSION_LEN = 200
 
