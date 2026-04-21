@@ -83,7 +83,7 @@ _start = time.time()
 # 1. KONFIGURÁCIA
 # ═══════════════════════════════════════════════════════════════════
 
-LABELED_CSV     = "C:/Users/kiara/PycharmProjects/Bakalaris/data/labele.csv"
+LABELED_CSV     = "labele.csv"
 
 # Parametre predspracovania
 SESSION_GAP_MIN = 15    # Nová session po 15 min pauze
