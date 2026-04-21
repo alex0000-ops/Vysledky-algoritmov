@@ -71,7 +71,7 @@ _start = time.time()
 # 1. KONFIGURÁCIA
 # ═══════════════════════════════════════════════════════════════════
 
-LABELED_CSV = "C:/Users/kiara/PycharmProjects/Bakalaris/data/labele.csv"
+LABELED_CSV = "labele.csv"
 
 # Sliding window parametre (výsledok grid searchu)
 WINDOW   = 50    # Dĺžka okna (počet eventov)
